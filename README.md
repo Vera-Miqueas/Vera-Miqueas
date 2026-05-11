@@ -4,10 +4,9 @@
 
 <h1 align="center"><b>Hi, I'm Miqueas Vera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 👤 About Me
-- I am an Information Systems Engineering student passionate about technology, problem-solving, and continuous learning.
+I am an Information Systems Engineering student passionate about technology, problem-solving, and continuous learning.
 
-🎓 About me:
+### 🎓 About me
 - 💻 I'm currently in my 2nd year of Information Systems Engineering at UTN FRSF.
 - 🌐 I work as a Research Scholar / Intern at the Connectivity Lab at my university, where I get hands-on experience with networking and infrastructure.
 - 🚀 I easily adapt to different contexts and pay close attention to detail. I always strive for efficiency and quality in every task to ensure the final outcome is not only functional, but well-executed.
@@ -15,7 +14,9 @@
 
 📫 How to reach me: www.linkedin.com/in/miqueas-vera-75b1a4366
 
-## 🛠 Tech Stack
+##
+
+### 🛠 Tech Stack
 
 #### 🔧 Languages
 <p align="center">
